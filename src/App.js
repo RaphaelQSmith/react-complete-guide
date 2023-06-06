@@ -7,7 +7,7 @@ const App = props => {
 
   const [personState, setPersonsState] = useState({
     persons: [
-      {text:''},
+      {text:'Solid Snake'},
     ]
   });
 
